@@ -1,1 +1,4 @@
 # poemFromSomeDude
+Blue
+red
+Black
